@@ -1,0 +1,29 @@
+.storefront-primary-navigation {
+	/*background: #C94747;*/
+	background: #dd3333;
+}
+
+.storefront-primary-navigation ul li a, .site-header-cart:hover > li > a {
+	color: #fff;
+}
+
+.storefront-primary-navigation ul li a:hover {
+	color: #fff;
+}
+
+.storefront-primary-navigation ul li {
+	border-top: 2px solid #dd3333;
+}
+
+.storefront-primary-navigation ul li:hover {
+	background: #C94747;
+	border-top: 2px solid #fff;
+}
+
+.woocommerce-active .site-header .main-navigation {
+	width: 77%;
+}
+
+.woocommerce-active .site-header .main-navigation {
+	margin-right: 1%;
+}
